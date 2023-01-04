@@ -17,12 +17,20 @@ NB : Due to license restriction, I can't share the reportoutside of PowerBI and 
 
 | Table | Columns |
 | --- | --- |
-| Biling System | Costumer ID, Date of Purchase, Dealer ID, Base Price, Taxes(5.75%), Total Cost |
-| Car Model | Model No., Name, Category ID, Manufactured, Make, Fuel System, Number of Cylinders, Body Style Code, Base Price |
-| Category | Category ID, Type |
-| Customer Details | Customer ID, Customer Name, Age, Date of Purchase, Dealer ID, Car Model, Insurance(Y/N), Total Price |
-| Date |Date, Year, Month, Month Number, Quarter |
-| Dealer Details | Dealer ID, Name, Gender, Date of joining, Cars Sold, Bonus Total, Salary+ Bonus (2020 to 2022), Years of Experience |
+| **Biling System** | Costumer ID, Date of Purchase, Dealer ID, Base Price, Taxes(5.75%), Total Cost |
+| **Car Model** | Model No., Name, Category ID, Manufactured, Make, Fuel System, Number of Cylinders, Body Style Code, Base Price |
+| **Category** | Category ID, Type |
+| **Customer Details** | Customer ID, Customer Name, Age, Date of Purchase, Dealer ID, Car Model, Insurance(Y/N), Total Price |
+| **Date** | Date, Year, Month, Month Number, Quarter |
+| **Dealer Details** | Dealer ID, Name, Gender, Date of joining, Cars Sold, Bonus Total, Salary+ Bonus (2020 to 2022), Years of Experience |
+
+##From this
+<img 
+  src="https://github.com/petithyggebot/AboutPowerBI/blob/main/performancereportexo.JPG" 
+  alt="Alt text" 
+  title="start">
+
+## To this
 
 <img 
   src="https://github.com/petithyggebot/AboutPowerBI/blob/main/performancereportexo_result.JPG" 
@@ -30,6 +38,7 @@ NB : Due to license restriction, I can't share the reportoutside of PowerBI and 
   title="Result">
 
 Tables' relation overview:
+
 <img 
   src="https://github.com/petithyggebot/AboutPowerBI/blob/main/performancereportexo01.JPG" 
   alt="Alt text" 
