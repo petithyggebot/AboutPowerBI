@@ -13,5 +13,14 @@ Results of tutos from youtube channel : report design in Power BI, visualisation
 
 Tuto from HowToPowerBI
 
+NB : Due to license restriction, I can't share the reportoutside of PowerBI and the interactive dshboard so here is an 
 
 <img src="https://github.com/petithyggebot/AboutPowerBI/blob/main/performancereportexo_result.JPG" alt="Alt text" title="Result">
+
+****Presenting visuals through a data dashboard****
+
+- By organizing and displaying important information in an easy-to-understand format in a single location, help the audience understand the connection between the data story and the story’s hypothesis. The benefits of utilizing a dashboard for your data are:
+- Providing better visibility into past and current trends.
+- Forecasting future trends with more accuracy.
+- Identifying key performance indicators from multiple sources.
+- Enabling real-time customer analytics.
