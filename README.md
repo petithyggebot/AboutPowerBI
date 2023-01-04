@@ -1,4 +1,4 @@
-# About Microsoft Power BI
+# Data storytelling with Microsoft Power BI
 
 **Using data visualization to enhance your data storytelling**
 
