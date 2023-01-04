@@ -13,10 +13,5 @@ Results of tutos from youtube channel : report design in Power BI, visualisation
 
 Tuto from HowToPowerBI
 
-From this
 
-## From this
-![Ew..](D:/DIANA/Data_Analysis_Science/PowerBI_Workbook/performancereportexo_start.JPG)
-
-## To This
-![Result](D:/DIANA/Data_Analysis_Science/PowerBI_Workbook/performancereportexo_result.JPG)
+![Result]([D:/DIANA/Data_Analysis_Science/PowerBI_Workbook/performancereportexo_result.JPG](https://github.com/petithyggebot/AboutPowerBI/blob/main/performancereportexo_result.JPG))
