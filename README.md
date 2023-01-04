@@ -21,7 +21,7 @@
 
 Tuto from HowToPowerBI
 
-NB : Due to license restriction, I can't share the reportoutside of PowerBI and the interactive dshboard so here is an overview.
+NB : Due to license restriction, I can't share the report outside of PowerBI and the interactive dshboard so here is an overview.
 
 | Table | Columns |
 | --- | --- |
