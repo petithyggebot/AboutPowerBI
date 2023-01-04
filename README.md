@@ -25,6 +25,7 @@ NB : Due to license restriction, I can't share the reportoutside of PowerBI and 
 | **Dealer Details** | Dealer ID, Name, Gender, Date of joining, Cars Sold, Bonus Total, Salary+ Bonus (2020 to 2022), Years of Experience |
 
 ##From this
+
 <img 
   src="https://github.com/petithyggebot/AboutPowerBI/blob/main/performancereportexo.JPG" 
   alt="Alt text" 
