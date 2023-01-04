@@ -16,4 +16,4 @@ Tuto from HowToPowerBI
 
 ![Result]([D:/DIANA/Data_Analysis_Science/PowerBI_Workbook/performancereportexo_result.JPG](https://github.com/petithyggebot/AboutPowerBI/blob/main/performancereportexo_result.JPG))
 
-<img src="[/path/to/img.jpg](https://github.com/petithyggebot/AboutPowerBI/blob/main/performancereportexo_result.JPG)" alt="Alt text" title="Result">
+<img src="https://github.com/petithyggebot/AboutPowerBI/blob/main/performancereportexo_result.JPG" alt="Alt text" title="Result">
