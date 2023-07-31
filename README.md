@@ -1,26 +1,26 @@
-# Data storytelling with Microsoft Power BI
+# Analyzing customer churn with Microsoft Power BI
 
-Tuto data visualisation from HowToPowerBI
 
-NB : Due to license restriction, I can't share the report outside of PowerBI and the interactive dshboard so here is an overview.
+NB : Due to license restriction, I can't share the report outside of PowerBI and the interactive dashboard so here is an overview.
+
+I investigated a dataset from an example telecom company called Databel and analyzed their churn rate.
+Analyzing churn doesn’t just mean knowing what the churn rate is: it’s also about figuring out why customers are churning at the rate they are, and how to reduce churn. 
+I'll answer these questions by creating measures and calculated columns, while simultaneously creating report pages that are understandable easily.
+
 
 | Table | Columns |
 | --- | --- |
-| **Biling System** | Costumer ID, Date of Purchase, Dealer ID, Base Price, Taxes(5.75%), Total Cost |
-| **Car Model** | Model No., Name, Category ID, Manufactured, Make, Fuel System, Number of Cylinders, Body Style Code, Base Price |
-| **Category** | Category ID, Type |
-| **Customer Details** | Customer ID, Customer Name, Age, Date of Purchase, Dealer ID, Car Model, Insurance(Y/N), Total Price |
-| **Date** | Date, Year, Month, Month Number, Quarter |
-| **Dealer Details** | Dealer ID, Name, Gender, Date of joining, Cars Sold, Bonus Total, Salary+ Bonus (2020 to 2022), Years of Experience |
+| **Title 1** | test, age, bin |
+| **Title 2** | test, churn rate, number customer by group |
 
-## From this
+## Image 1
 
 <img 
   src="https://github.com/petithyggebot/AboutPowerBI/blob/main/performancereportexo.JPG" 
   alt="Alt text" 
   title="start">
 
-## To this
+## Image 2
 
 <img 
   src="https://github.com/petithyggebot/AboutPowerBI/blob/main/performancereportexo_result.JPG" 
